@@ -18,6 +18,19 @@ The project includes an interactive Excel dashboard using PivotTables, PivotChar
 - Analyze orders by age group and gender
 - Compare different sales channels
 - Build an interactive Excel dashboard
+  ## 📊 Dashboard Preview
+
+![Vrinda Store Dashboard](dashboard.png)
+
+## 🔗 Dataset Links
+
+- [View Raw Dataset] <a href="https://github.com/Akash-Kheto/Excel-Projects/blob/main/Raw_Data_Vrinda%20Store%20Data%20Analysis.xlsx"> Link </a>
+
+- [View Clean Dataset] <a href="https://github.com/Akash-Kheto/Excel-Projects/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx"> Link </a>
+
+- [View Excel Project] <a href="https://github.com/Akash-Kheto/Excel-Projects/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx"> Link </a>
+
+- [View Dashboard Image] <a href="https://github.com/Akash-Kheto/Excel-Projects/blob/main/Project%20-Screenshot.png"> Link </a>
 
 ## 📊 Dashboard Analysis
 
