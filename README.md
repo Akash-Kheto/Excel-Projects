@@ -20,7 +20,7 @@ The project includes an interactive Excel dashboard using PivotTables, PivotChar
 - Build an interactive Excel dashboard
   ## 📊 Dashboard Preview
 
-![Vrinda Store Dashboard](dashboard.png)
+
 
 ## 🔗 Dataset Links
 
